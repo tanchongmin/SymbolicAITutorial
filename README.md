@@ -2,7 +2,7 @@ This repository contains the potential usage of the SymbolicAI architecture.
 See the Symbolic AI repository here: https://github.com/Xpitfire/symbolicai
 
 Symbolic AI defines everything as a symbol, with some symbols storing information, 
-and some symbols are like expressions used to evaluate the symbols to get information. 
+and some symbols are like expressions used to **process** the symbols to get information. 
 At its core, symbols are manipulated using Large Language Model-defined operations.
 
 Each symbol is basically stored in text form. 
